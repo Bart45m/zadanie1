@@ -22,6 +22,13 @@ W niniejszej usludze zmieniono wersje obrazow bazowych dockerfileow z latest na 
 
 Dodatkowo w mikrousludze clienta ustawiono aktualizacje obliczonych wartosci ciagu fibonacciego przy kazdym rzadaniu wysylanym do bazy danych
 
+Prezentacja dzialania:
+
+![alt text](./logs.png)
+![alt text](./fib.png)
+![alt text](./home.png)
+![alt text](./doc.png)
+
 Aby uruchomic usluge nalezy:
 
 1. Pobrac zawartosc repozytorium
