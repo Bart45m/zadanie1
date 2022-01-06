@@ -21,3 +21,10 @@ W niniejszej usludze zmieniono wersje obrazow bazowych dockerfileow z latest na 
 
 
 Dodatkowo w mikrousludze clienta ustawiono aktualizacje obliczonych wartosci ciagu fibonacciego przy kazdym rzadaniu wysylanym do bazy danych
+
+Aby uruchomic usluge nalezy:
+
+1. Pobrac zawartosc repozytorium
+2. Wykonac polecenie docker-compose up
+
+Aby wylaczyc usluge nalezy uzyc kombinacji klawiszy Ctrl+C w terminalu, w ktorym zostala uruchomiona usluga
